@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,age,gender,created_at
+1,John,Doe,john.doe@example.com,28,Male,2024-01-15 08:30:00
+2,Jane,Smith,jane.smith@example.com,35,Female,2023-11-22 14:05:00
+3,Bob,Johnson,bob.johnson@example.com,42,Male,2024-02-03 09:50:00
+4,Emily,Davis,emily.davis@example.com,29,Female,2024-03-01 11:00:00
+5,Michael,Brown,michael.brown@example.com,38,Male,2023-12-11 15:25:00
+6,Lisa,Wilson,lisa.wilson@example.com,31,Female,2024-01-27 10:10:00
+7,David,Moore,david.moore@example.com,45,Male,2023-10-19 16:40:00
+8,Susan,Lee,susan.lee@example.com,30,Female,2024-02-20 12:15:00
+9,James,White,james.white@example.com,50,Male,2023-11-05 13:55:00
+10,Patricia,Martin,patricia.martin@example.com,29,Female,2024-01-30 08:40:00
